@@ -1,5 +1,5 @@
 [workspace]
 resolver = "2"
-members = [ "five", "four","one", "six", "three", "two"]
+members = [ "eight", "five", "four", "nine","one", "seven", "six", "ten", "three", "two"]
 
 [workspace.dependencies]
